@@ -1,4 +1,3 @@
-import { Builder } from "@builder.io/react";
 import { useState } from "react";
 
 export default function Counter() {
